@@ -1,2 +1,2 @@
 ### supervised learning
-using sklearn library classifiers and regressions algorithms to model data 
+using sklearn library classifiers and regression algorithms to model data 
